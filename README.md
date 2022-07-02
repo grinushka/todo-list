@@ -21,9 +21,6 @@
 - Bootstrap
   <a href="https://getbootstrap.com/" target="\_blank" rel="noreferrer"> &nbsp; <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt="git" width="40" height="40" align="center"/> </a>
 
-- Font Awesome
-  <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> &nbsp; <img src="/font-awesome.svg" alt="git" width="40" height="40" align="center"/> </a>
-
 <h2> Badges </h2>
 
 [![GitHub](https://img.shields.io/github/followers/grinushka?style=social)](https://github.com/grinushka)
@@ -35,3 +32,4 @@
 <h3> Acknowledgements </h3>
 
 - [Thanks to the Net Ninja for unsurpassed tutorials!](https://netninja.dev/)
+- Awesome icons on [fontawesome.com](https://fontawesome.com/)
