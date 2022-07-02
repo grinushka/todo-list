@@ -1,5 +1,7 @@
 <h1> Todo List </h1>
 
+A simple webpage to create a Todo list.
+
 <h2> Screenshots </h2>
 
 ![App Screenshot](/todo-list.png)
